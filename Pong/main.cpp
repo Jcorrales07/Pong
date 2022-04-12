@@ -137,7 +137,6 @@ int main()
 			DrawText(winnerText, GetScreenWidth() / 2 - textWidth /2  , GetScreenHeight() / 2 - 30, 60, YELLOW);
 		}
 
-
 		DrawFPS(10, 10);
 		EndDrawing();
 	}
